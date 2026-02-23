@@ -2,7 +2,7 @@ class Quoroom < Formula
   desc "Autonomous AI agent collective engine"
   homepage "https://quoroom.ai"
   url "https://github.com/quoroom-ai/room/releases/download/v#{version}/quoroom-v#{version}-darwin-universal.tar.gz"
-  sha256 "51e68ba132e48fbd4de49319f9a5eab051f8eeefc10d11a462e9b845bb0887b2"
+  sha256 "c3e8908fb0b07ae97f81b00dc8f70497bccefedfb0008d9614c9cfe0fc7f9838"
   license "MIT"
 
   def install
